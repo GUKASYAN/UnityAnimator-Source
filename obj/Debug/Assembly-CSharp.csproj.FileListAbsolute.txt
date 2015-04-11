@@ -1,0 +1,11 @@
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\UnityEditor.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\UnityEngine.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\Mono.Cecil.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\nunit.framework.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\Unity.DataContract.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\obj\Debug\Assembly-CSharp.dll
+D:\Study\WORK\nikki.com\TestTask_Gukasyan\UnityAnimator\obj\Debug\Assembly-CSharp.pdb
